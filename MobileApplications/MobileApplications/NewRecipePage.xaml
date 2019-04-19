@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApplications.NewRecipePage">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10, 10, 10, 0">
+                <Image x:Name="img" HeightRequest="100" WidthRequest="100" HorizontalOptions="CenterAndExpand"/>
+
+                <Entry x:Name="nameEntry"
+                       Placeholder="Name"/>
+
+                <Entry x:Name="durationEntry"
+                       Placeholder="Duration"/>
+
+            
+                <Entry x:Name="ingredientEntry"
+                       Placeholder="Ingredient"/>
+            
+                <Entry x:Name="ingredientEntry2"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry3"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry4"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry5"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry6"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry7"
+                       Placeholder="Ingredient"/>
+
+                <Entry x:Name="ingredientEntry8"
+                       Placeholder="Ingredient"/>
+
+
+                <Entry x:Name="stepEntry1"
+                       Placeholder="Step"/>
+
+                <Entry x:Name="stepEntry2"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry3"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry4"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry5"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry6"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry7"
+                       Placeholder="Step"/>
+            
+                <Entry x:Name="stepEntry8"
+                       Placeholder="Step"/>
+
+                <Button Text="Select Image" x:Name="btnselectImage" 
+                        Clicked="SelectImage"/>
+
+                <Button Text="Save" x:Name="btnSave" 
+                        Clicked="Button_Clicked"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
