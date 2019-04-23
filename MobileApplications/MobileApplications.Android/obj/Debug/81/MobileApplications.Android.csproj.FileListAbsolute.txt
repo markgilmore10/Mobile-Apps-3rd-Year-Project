@@ -40,6 +40,7 @@ C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApp
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\res\xml\file_paths.xml
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\R.cs.flag
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\R.txt
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\uploadflags.txt
@@ -111,6 +112,4 @@ C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApp
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\bin\Debug\netstandard2.0\MobileApplications.dll
-C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\bin\Debug\MobileApplications.dll.mdb
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications.Android\obj\Debug\81\linksrc\MobileApplications.dll.mdb

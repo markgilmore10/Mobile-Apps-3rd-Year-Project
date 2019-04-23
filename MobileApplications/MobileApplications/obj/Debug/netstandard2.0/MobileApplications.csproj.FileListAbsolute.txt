@@ -1,13 +1,12 @@
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\bin\Debug\netstandard2.0\MobileApplications.deps.json
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\bin\Debug\netstandard2.0\MobileApplications.dll
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\bin\Debug\netstandard2.0\MobileApplications.pdb
-C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.csprojAssemblyReference.cache
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\NewRecipePage.xaml.g.cs
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.csproj.CoreCompileInputs.cache
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.AssemblyInfoInputs.cache
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.AssemblyInfo.cs
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.dll
 C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\MobileApplications.pdb
-C:\Users\Mark\Desktop\MobileApps\MobileApplications\MobileApplications\MobileApplications\obj\Debug\netstandard2.0\NewRecipePage.xaml.g.cs
